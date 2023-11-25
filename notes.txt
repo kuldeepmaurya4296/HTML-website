@@ -1,0 +1,11 @@
+1. html
+2. head 
+3. title
+4. body 
+5. br 
+6. p 
+7. h1 - h2
+8. font 
+9. img 
+10. list 
+12. hr 
